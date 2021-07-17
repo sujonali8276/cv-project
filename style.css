@@ -1,0 +1,119 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: #EEE;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+.container {
+    max-width: 1000px;
+    background-color: #E4F9F5;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+#imageId {
+    height: 100ps;
+    width: 100px;
+    margin-top: 10px;
+    border: 3px solid white;
+    border-radius: 50%;
+    float: left;
+}
+
+.header-bio {
+    float: left;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: #11999e;
+}
+
+.header-contact {
+    float: right;
+    text-decoration: none;
+    padding: 20px;
+}
+
+.header-contact a {
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+}
+
+.header-contact a:hover {
+    color: red;
+    text-decoration: none;
+}
+
+.div-clear {
+    clear: both;
+}
+
+hr {
+    border: 2px solid black;
+    margin: 0 auto;
+    width: 100%;
+    margin-top: 20px;
+}
+
+#personal-section {
+    margin: 10px;
+}
+
+#content {
+    margin-bottom: 30px;
+}
+
+#left-div {
+    width: 30%;
+    float: left;
+}
+
+#right-div {
+    width: 70%;
+    float: left;
+}
+
+.common-hr {
+    border: 1px solid black;
+    border-bottom: none;
+    margin: 0 auto;
+    width: 100%;
+    margin-top: 20px;
+}
+
+ul {
+    margin-left: 20px;
+}
+
+.footer-class {
+    background-color: black;
+    color: blanchedalmond;
+    padding: 20px;
+    text-align: center;
+}
+
+.footer-class a {
+    text-decoration: none;
+    margin: 10px;
+    color: white;
+}
+
+.footer-class a:hover {
+    color: tomato;
+}
+
+.footer-class p {
+    margin: 20px;
+}
